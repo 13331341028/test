@@ -5,7 +5,7 @@
  <artifactId>MyMaven</artifactId>
  <packaging>war</packaging>
  <version>0.0.1-SNAPSHOT</version>
- <name>TestMaven01 Maven Webapp</name>
+ <name>TestMaven00001 Maven Webapp</name>
  <url>http://maven.apache.org</url>
  <properties> 
     <!-- spring版本号 -->
@@ -144,6 +144,7 @@
   </dependency> 
   <!-- log end -->
   <!-- 映入JSON -->
+  <!-- 映入JSON -->
   <dependency> 
     <groupId>org.codehaus.jackson</groupId> 
     <artifactId>jackson-mapper-asl</artifactId> 
@@ -170,4 +171,5 @@
  <build>
   <finalName>TestMaven01</finalName>
  </build>
+
 </project>
